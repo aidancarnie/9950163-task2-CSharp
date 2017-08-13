@@ -21,7 +21,7 @@ namespace _9950163_task2_CSharp
                 Console.ReadLine();
 
                 //output the average of the numbers
-                Console.WriteLine("The average of those 10 numbers is: ", sum);
+                Console.WriteLine("The average of those 10 numbers is: {0:0.0}", sum);
             }
             Console.ReadLine();
         }
